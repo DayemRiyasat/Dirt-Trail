@@ -1,0 +1,23 @@
+{
+  "DirtBike": {
+    "path": "Assets/Prefabs/DirtBike.prefab",
+    "go": 515613794,
+    "tr": 551049433
+  },
+  "Pickup_Nitro": {
+    "path": "Assets/Prefabs/Pickup_Nitro.prefab",
+    "go": 1343482383,
+    "tr": 57983072
+  },
+  "Pickup_Air": {
+    "path": "Assets/Prefabs/Pickup_Air.prefab",
+    "go": 433659899,
+    "tr": 1606148370
+  },
+  "Checkpoint": {
+    "path": "Assets/Prefabs/Checkpoint.prefab",
+    "go": 1482654370,
+    "tr": 1533649089,
+    "mono": 1390698082
+  }
+}

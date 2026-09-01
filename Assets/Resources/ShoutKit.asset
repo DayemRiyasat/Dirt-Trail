@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae42f27a0d036968cb2b5e684fe142bd, type: 3}
+  m_Name: ShoutKit
+  m_EditorClassIdentifier:
+  flip:
+  - {fileID: 4541832077206723, guid: f5bbf87f7022fb0d493dcfca035ab418, type: 3}
+  - {fileID: 3249236943435219, guid: 45ac4db349aa13b2577248eaa00213cf, type: 3}
+  - {fileID: 4072527417518344, guid: e34202c9e129a7dbfde40ab092456cf6, type: 3}
+  - {fileID: 3767301730634543, guid: 929a922ba9be9407ced817f96df21da0, type: 3}
+  bigFlip:
+  - {fileID: 8798702366685172, guid: 4e3479d8fda6c8c1a38ec5ccdcb7c423, type: 3}
+  - {fileID: 2154383862845835, guid: af8b3a5bebfb360513be31db63dd81fb, type: 3}
+  - {fileID: 3331931264496900, guid: 78ae504b0e69d546b7d2d9fc1ea39d53, type: 3}
+  air:
+  - {fileID: 7969506579535645, guid: 4456c6a4d1cd62099daa59274e513e32, type: 3}
+  - {fileID: 3321390327548909, guid: df8914a825a6bb858537094f5d87e0e3, type: 3}
+  - {fileID: 5750020126992500, guid: 71f4cde340fc9aa426ece2d824d966da, type: 3}
+  perfect:
+  - {fileID: 1004105561165631, guid: 1f89eafc370ef448ba6b9282beb45a1b, type: 3}
+  - {fileID: 5060459755488988, guid: eb58176b6b93d98f3def0cc3a247d694, type: 3}
+  - {fileID: 4780017941736330, guid: f1e68ae130ad82f6a265c5d4ddd63327, type: 3}
+  wipeout:
+  - {fileID: 1006805757060554, guid: ab88571df8510e759430e2113cfe7448, type: 3}
+  - {fileID: 5470367047932317, guid: 909e2cadd0046e758cfe787dcf03ce3a, type: 3}
+  - {fileID: 1329359695287448, guid: c888b00ea140fbf3926d4823add63e84, type: 3}
+  - {fileID: 4656395042695601, guid: 2712be15a7a60e89c2a1a98e763b82e0, type: 3}
+  nitro:
+  - {fileID: 4636698118465366, guid: 4c4f27a8b79631ba390e0ec5bcf9f1a3, type: 3}
+  airPickup:
+  - {fileID: 6942142335737280, guid: ff8c49fba23d8f078a6fb42d9968e69d, type: 3}

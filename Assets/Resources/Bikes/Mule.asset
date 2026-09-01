@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d09ae1a74f40be844a59e401a1323765, type: 3}
+  m_Name: MULE
+  m_EditorClassIdentifier:
+  displayName: MULE
+  blurb: Heavy, older, honest. Sticks where you put it.
+  body: {fileID: 2258071989146706, guid: c2655820f6299178fabb48db62f1823e, type: 3}
+  rider: {fileID: 8295834411083742, guid: 1cdf5ecbbd65a90f6e9112880e47c77b, type: 3}
+  wheelFront: {fileID: 2479147359004467, guid: 85c5f0b35a89e9510c4377f90b5db118, type: 3}
+  wheelRear: {fileID: 5262457401007279, guid: 09d6b18302098d32ea2ae502545af2bf, type: 3}
+  dust: {r: 0.7, g: 0.58, b: 0.42, a: 1}
+  mass: 3.6
+  gravityScale: 1.5
+  enginePower: 64
+  maxSpeed: 20
+  brakeForce: 38
+  groundTorque: 10
+  airTorque: 17
+  groundAngularDamping: 6
+  airAngularDamping: 0.22
+  spinCeiling: 260
+  settleHeight: 8
+  landingSpinDamp: 4.5
+  groundAlign: 28
+  landingAssist: 8
+  suspensionTravel: 0.2
+  nitroMultiplier: 1.55
+  nitroDuration: 4.2
+  statSpeed: 0.58
+  statGrip: 0.8
+  statAir: 0.6

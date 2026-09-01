@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d09ae1a74f40be844a59e401a1323765, type: 3}
+  m_Name: SCOUT
+  m_EditorClassIdentifier:
+  displayName: SCOUT
+  blurb: Light. Flicks fast, lands nervous.
+  body: {fileID: 1885630291955867, guid: df7acc6a7180e2d3c24fa7094ba56ab8, type: 3}
+  rider: {fileID: 7023575458622176, guid: 8895a63dc2cf585d1ac7a6e6b2e2ef5b, type: 3}
+  wheelFront: {fileID: 5872870007908663, guid: 8fd75c3872abee6bff6d6f7e7cc3d012, type: 3}
+  wheelRear: {fileID: 8003731712522718, guid: 4b62b2265eb01fa878991c903ea6b49e, type: 3}
+  dust: {r: 0.82, g: 0.66, b: 0.44, a: 1}
+  mass: 2.7
+  gravityScale: 1.6
+  enginePower: 50
+  maxSpeed: 22
+  brakeForce: 30
+  groundTorque: 9
+  airTorque: 22
+  groundAngularDamping: 5
+  airAngularDamping: 0.15
+  spinCeiling: 320
+  settleHeight: 7
+  landingSpinDamp: 4
+  groundAlign: 22
+  landingAssist: 5
+  suspensionTravel: 0.16
+  nitroMultiplier: 1.7
+  nitroDuration: 3.2
+  statSpeed: 0.72
+  statGrip: 0.45
+  statAir: 0.92
